@@ -17,10 +17,10 @@ The characters and the dialog are the apotheosis of Primordia.
 
 I was shocked at how well done the characterizations of Horatio and his sidekick were (I'm desensitized to the kind of characters you find in most modern games, after all). They are congruent in their beliefs and behavior most of the time while allowing for slight deviations and quirks when the situation calls for it. In other words, they are not flat, two-dimensional characters that serve as cliches or archetypes or devices to allow for the advancement of the plot. They feel real and alive, and it might fly under the radar at first glance because of the subtlety with which it is implemented.
 
-<figure>
-    <img src="../img/primordia_train.png">
-    <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
-</figure>
+<p align="center">
+  <img src="/img/primordia_train.png" />
+  <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
+</p>
 
 Horatio and Crispin may be the highlights of the game since they are the main characters, but that does not mean that the rest of the characters you can interact with in the game were sort of swept under the rug as an afterthought. No, each of them has their own distinct personality and motivations as well, and none of them, in my opinion, are overdone, underdone, obnoxious, or boring. I enjoyed interacting with all of them and their dialogue never overstayed its welcome, which brings me to my next point.
 
@@ -32,10 +32,10 @@ And it's genuinely funny at times. I have an obscure sense of humor and it takes
 
 If you're reading this review, you already know what the art looks like. Yes, it's heavily pixelated and low resolution. But of course, that's part of the aesthetic. I couldn't really imagine Primordia being a game with high resolution artwork and animations. It just wouldn't be the same. I wouldn't like it as much. The way it's done is perfect for the atmosphere and setting, I think, and I wouldn't change a thing. If you like this retro, low-resolution aesthetic, it's all the more reason to buy the game.
 
-<figure>
-    <img src="../img/primordia_giant.png">
-    <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
-</figure>
+<p align="center">
+  <img src="/img/primordia_giant.png" />
+  <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
+</p>
 
 A few times throughout the experience, you view higher-resolution cut scenes at important moments. It's a pretty large contrast to the pixelated art you're used to seeing, and when you come across these cut scenes, they seem magical and intriguing because you get to see what the characters really look like. It reminds me of the contrast between looking underwater with and without goggles. Both are cool in their own right, but the comparison our brain makes between the two perceptions is where the wonder exists.
 
@@ -43,10 +43,10 @@ A few times throughout the experience, you view higher-resolution cut scenes at 
 
 The story of Primordia was unorthodox and interesting. Perhaps not groundbreaking or original on all fronts, but well developed enough to warrant a playthrough even if the character and dialogue features described above were toned down a few notches.
 
-<figure>
-    <img src="../img/primordia_crash.png">
-    <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
-</figure>
+<p align="center">
+  <img src="/img/primordia_crash.png" />
+  <figcaption>Source: http://www.wadjeteyegames.com/games/primordia/</figcaption>
+</p>
 
 My favorite part about it is that it's stripped of the extraneous to the extent to where you don't get bogged down in the details and can just enjoy the plot as it unfolds.
 
