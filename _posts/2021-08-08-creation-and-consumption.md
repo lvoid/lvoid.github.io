@@ -1,0 +1,34 @@
+---
+layout: post
+title: Creation and Consumption
+---
+
+---
+layout: post
+title: "Creation and Consumption"
+categories: thoughts
+---
+
+I've been thinking about something lately. There appears to be a dichotomy in which people tend toward one side or the other, especially with regards to their sense of self.  With room for intrinsic human nuance, people can be roughly classified as defining themselves most predominantly by what they consume or instead, what they create.
+
+It's not possible to produce all of the time.  We have to take in some sort of input to yield an output.  Furthermore, as we go through a day in our modern life, we are bound to be consumers of some kind of information.  Oftentimes, it is not even voluntary.  It is noise generated from our inevitable environment.  A consequence of our navigation and survival.
+
+Conversely, it is possible to consume all of the time without yielding very much output.  Our modern environments are primed for us to do so.  They're not only primed - they are deliberately rigged for this purpose.  It keeps the system moving forward.  Our economy is dependent on consumption.  Individuals are a commodity in the capitalist system, and its survival is predicated upon the gears being fine tuned for maximum consumption.  Every social media application, every shopping website, every television ad is crafted to get you to be an impulsive consumer to make someone else money, very often preying upon your sense of identity and social instinct to make it so.
+
+The observation that most people fall into the latter category is not so much a subjective interpretation of mine as it is a natural consequence of the way the system is designed.  If far more people produced and created than they consumed, the system would malfunction.  It's like imagining a scenario in which every person in a country decided to make their own business instead of being an employee.  You can guess what would happen in that case.  On a side note, it's also more fuel for my disdain of internet entrepreneurs encouraging everyone else to be an entrepreneur, as if it is the end all, be all - the pinnacle of success and happiness.  Nevermind the impossible economics.  Nevermind that you may fail and subsequently carry around soul-crushing levels of debt, or even carry these things around if you do succeed. 
+
+As with most of the latest trends in society, the benefits are espoused while the deleterious effects are swept under the oblivion rug.
+
+But we wouldn't have it any other way.  It's not until we find ourselves up until 3AM at night for the 4th week in a row binge watching a netflix series.  It's not until we have racked up thousands in credit card debt for the newest gaming gear or our 200th Funko Pop figure.  It's not until these times that reality slaps us in the face and we have to confront the hollowness and lack of meaningful creation and purpose that has driven us to such extreme ends of consumerism in the first place.  They're all convenient distractions, numbing us and helping us to cope with the frailties in our modern lives while providing some sense of identity that was stripped away from us.  Defining and molding ourselves and our worth by our most recent Amazon purchases, what shows we have seen lately, what new collectible item sits on our desk.  Never stopping to ask ourselves the looming question about what we have put back into the world or what value we have provided to other people.
+
+I cannot speak for everyone, but I find that the most fulfilling life for me is one in which I minimize my consumption while increasing my creation.  Consumption is essential for many things, including enjoyment and the kindling of new ideas.  As an example, reading is essential for writing.  It exposes you to new syntactical structures and vocabulary while providing inspiration for your own story and showing you how to painstakingly create a multi dimensional character with a past and their own motivations.  Similarly, an aspiring film maker would likely benefit from watching and analyzing a wide variety of avant-garde film and classics of several genres.  Even if they do not directly copy from these works, they'd be building up an intuitive framework for their own project in the process. 
+
+In other words, it's easier for something to come from something than it is from something to come from nothing.  But there is a line to be drawn, and that is the line that I attempt to identify in my own life.
+
+It's a constant struggle to not overconsume.  We are tired, and it's so easy to sit down when you are drained and simply be a black hole for information or put that new item in your shopping cart for some fleeting moment of stale joy.  For me, however, these things will never come close to touching the amount of long lasting fulfillment I feel from creating something external in the world, no matter how intangible or diminutive it is.
+
+I often contemplate my own death and how real the inevitability of it is.  Mostly, I am drawn to the fact that there doesn't seem to be that much time left, even at 26 years old.  There was a point when this left me with a sense of hopelessness, as I couldn't possibly do everything that I wanted to.  This powerful, visceral state ironically paralyzed me and shifted me more to the spectrum of consumerism, where things were safer and easier and distractions were abound.  I became uncomfortable with working, not even mentioning the seemingly insurmountable task of creating something from scratch.  In recent years, however, I've tried turning things around.  We cannot do everything, and why would we?  There would be nothing else to do, and we'd be bored. 
+
+I've thrown out concepts like achievement, and I'm trying to throw out concepts like goals and aspirations.  The aformentioned have been transposed as concepts and commodified to make us more effective cogs in the economic machine we are in.  They are not personal - they are often by-products of exposure to our culture, and carry those associated connotations with them.  What is personal is what we want to do and what we are interested in.  These are the things that I try to define for myself.  What two or three things should I be focusing on in my life at a given time that lead me to the joys of creation and learning something new?  Things that may have no positive economic incentive and things that may not be impressive and interesting to other people.  When you strip away desires in your heart, leaving only those with these distinctions, what you are left with is likely what is going to bring you to the peak of your existence as a human being.
+
+Spit in the face of consumerism and dare to become a creator in your life.
