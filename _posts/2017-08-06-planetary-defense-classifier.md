@@ -26,9 +26,9 @@ The first approach to solve this problem was building a text classifier in the P
 
 In other words, it was necessary that a human or group of humans manually evaluate an entire crawl session result to train the classifier, and this is exactly what we did.  After agreeing upon a certain criteria of relevancy for each website, another intern and I went over all ~30,000 pages ourselves and marked them as relevant, not relevant, or maybe relevant.
 
-<figure>
-    <img src="../img/accuracy.PNG">
-</figure>
+<p align="center">
+  <img src="/img/accuracy.PNG">
+</p>
 
 The above image is a calculated accuracy percentage for each round after going through the webpages manually.  You can probably guess where, but there was an unexpected and extreme dip in accuracy relatively early on in the crawl.
 
@@ -113,7 +113,7 @@ pipeline.fit(data['text'].values, data['class'].values)
 
 After using 6-fold cross validation, we ended up with an [F1 Score](https://en.wikipedia.org/wiki/F1_score) of .84 for the "relevant" class.
 
-[Here](https://github.com/jjgccg/PD-Webpage-Classifier/blob/master/WebpageClassifier.py) is the full Python script.
+[Here](https://github.com/lvoid/PD-Webpage-Classifier/blob/master/WebpageClassifier.py) is the full Python script.
 
 ## Elastic Net Models in R
 
