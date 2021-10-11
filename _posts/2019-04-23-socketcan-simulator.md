@@ -457,6 +457,6 @@ gcc -o BMU_Status_Writer BMU_Status_Writer.c
 
 Printed to the console in the terminal where the reading program was exectured should be the information regarding the status of the BMU, as shown below.
 
-<figure>
-    <img src="../img/can_results.PNG">
-</figure>
+<p align="center">
+  <img src="/img/can_results.PNG">
+</p>
