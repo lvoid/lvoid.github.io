@@ -1,10 +1,5 @@
 ---
 layout: post
-title: Creation and Consumption
----
-
----
-layout: post
 title: "Creation and Consumption"
 categories: thoughts
 ---
