@@ -171,10 +171,10 @@ Now we're going to perform magic to cross compile Qt for the Raspberry Pi within
 
 This is a long process, so you might want to do other stuff in the meantime like a BL4 run through Bloodborne using the Saw Cleaver.
 
-<figure>
-    <img src="../img/bb.jpg">
-    <figcaption>Lady Maria of the Astral Clocktower</figcaption>
-</figure>
+<p align="center">
+  <img src="/img/bb.jpg">
+  <figcaption>Lady Maria of the Astral Clocktower</figcaption>
+</p>
 
 There are the 3 commands that you will perform, one at a time.  If anything goes wrong, you can undo and clean up with the command `git clean -dfx` and `make clean` if necessary.
 
@@ -218,45 +218,46 @@ export PATH=$PATH:~/raspi/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspb
 
 * Open Qt Creator and navigate to **Tools** -> **Options** -> **Devices** -> **Add...** and add a new **Generic Linux Device**
 
-<figure>
-    <img src="../img/config1.PNG">
-</figure>
+
+<p align="center">
+  <img src="/img/config1.PNG">
+</p>
 
 * Fill in the information for the Raspberry Pi device.  The host name is the IP address of the device.  The final result should look something like this.
 
-<figure>
-    <img src="../img/config2.PNG">
-</figure>
+<p align="center">
+  <img src="/img/config2.PNG">
+</p>
 
 * We need to add the C and C++ compilers from the Raspberry Pi tools folder so we can cross compile an executable.  First, we add the C compiler, which is located at `~/raspi/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/bin/gcc` and we can call this compiler **GCC (Raspberry Pi, C)**
 
-<figure>
-    <img src="../img/config3.PNG">
-</figure>
+<p align="center">
+  <img src="/img/config3.PNG">
+</p>
 
 * We then add the C++ compiler which is located in the same directory at `~/raspi/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/arm-linux-gnueabihf/bin/g++`
 
-<figure>
-    <img src="../img/config4.PNG">
-</figure>
+<p align="center">
+  <img src="/img/config4.PNG">
+</p>
 
 * Next, we add the Raspberry Pi debugger, located at `~/raspi/tools/arm-bcm2708/arm-rpi-4.9.3-linux-gnueabihf/bin/arm-linux-gnueabihf-gdb`
 
-<figure>
-    <img src="../img/config5.PNG">
-</figure>
+<p align="center">
+  <img src="/img/config5.PNG">
+</p>
 
 * We then add the correct version of qmake, located at `~/raspi/qt5/bin/qmake`
 
-<figure>
-    <img src="../img/config6.PNG">
-</figure>
+<p align="center">
+  <img src="/img/config6.PNG">
+</p>
 
 * Using all of these specifications, we can configure a "kit" in QtCreator.  We go to the **Kits** tab and add a new kit called **Raspberry Pi**, giving it the correct sysroot of `~/raspi/sysroot`, and the correct compilers, GDB, and Qt version that we added in earlier steps, which should now populate the dropdowns.
 
-<figure>
-    <img src="../img/config7.PNG">
-</figure>
+<p align="center">
+  <img src="/img/config7.PNG">
+</p>
 
 You should now be able to configure some project with this Kit and cross compile it and deploy it onto the Raspberry Pi.
 
