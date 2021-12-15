@@ -23,7 +23,7 @@ QML, the declarative frontend language for QtQuick bundled with Qt, has some ver
 
 I had to customize the `TextField` extensively to best suit the needs of my application, including using the `inputMask` field of the widget.
 
-This worked great magnificently in the UI.  It did exactly what I thought it would do.  It also manipulated its `text` field in a way that I did not expect, and I could not figure out how to derive the text I wanted to send to the backend until I took a look at Qt's documentation.
+This worked magnificently in the UI.  It did exactly what I thought it would do.  It also manipulated its `text` field in a way that I did not expect, and I could not figure out how to derive the text I wanted to send to the backend until I took a look at Qt's documentation.
 
 ## Qt TextField Use Case
 
