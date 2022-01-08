@@ -12,7 +12,7 @@ This VN deserves another playthrough from me. Due to life circumstances, I playe
 
 
 <p align="center">
-  <img src="/img/pale_cachexia_review/pale_c1.jpg" />
+  <img src="/img/pale_cachexia_review/pale_c4.jpg" />
 </p>
 
 Pale Cachexia radiates a distinctive sense of atmosphere and feeling tones that cannot be found in many other visual novels or video games. Various labels can be used to classify it, but in a true artistic fashion, conglomerations of language only serve to skew its underlying core that presents itself differently to each individual.
@@ -48,5 +48,5 @@ Pale Cachexia realizes this. It does away with the flashiness, the needless comp
 This fact, combined with the marvelous illustrations and music, make this a highly recommended visual novel from me. And it's a shame it's not more popular.
 
 <p align="center">
-  <img src="/img/pale_cachexia_review/pale_c4.jpg" />
+  <img src="/img/pale_cachexia_review/pale_c1.jpg" />
 </p>
