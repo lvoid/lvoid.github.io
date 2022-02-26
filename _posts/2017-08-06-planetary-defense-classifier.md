@@ -8,7 +8,7 @@ tags: [data, machine learning, python]
 
 ## Background
 
-For the past two summers, I have interned at the GMU Center for Intelligent Spatial Computing, where a number of PhD students are working on very interesting computational geoinformatics projects.  One of the projects which I contributed to was the NASA Goddard/NSF Planetary Defense Project - an endeavor focused on the mitigation of asteroid threats to our planet through means of developing a large knowledge base of information about NEOs (Near Earth Objects), which can be accessed by scientists and engineers throughout the world.
+For the past two summers, I have interned at the GMU Center for Intelligent Spatial Computing, where a number of PhD students are working on very interesting computational geoinformatics projects.  One of the projects which I contributed to was the NASA Goddard/NSF Planetary Defense Project - an endeavor focused on the mitigation of asteroid threats to our planet through means of developing a large knowledge base of information about NEOs (Near Earth Objects), which can be accessed by scientists and engineers throughout the world.  
 
 ## The Tedious Problem
 
